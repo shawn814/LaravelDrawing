@@ -1,4 +1,4 @@
-<?php
+i<?php
 
 use Illuminate\Support\Facades\Broadcast;
 
